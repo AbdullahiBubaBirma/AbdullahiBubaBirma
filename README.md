@@ -31,6 +31,6 @@ Email: abbk1983@egmail.com
 
 LinkedIn: https://www.linkedin.com/in/abdullahi-buba-birma/
 
-Twitter: htpps://www.twitter.com/birma_buba/
+Twitter: https://www.twitter.com/birma_buba/
 
 YouTube: https://www.youtube.com/@AbdullahiBubaBirma/
