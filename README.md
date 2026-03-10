@@ -1,4 +1,5 @@
 👋 Hi, I’m Abdullahi Buba Birma
+
 Full‑Stack Software Engineer | Python · React · AI · Cybersecurity
 
 🚀 About Me
