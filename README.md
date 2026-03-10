@@ -2,17 +2,16 @@
 
 Full‑Stack Software Engineer | Python · React · AI · Cybersecurity
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-I’m a Full‑Stack Software Engineer with a passion for building scalable, secure applications and contributing to impactful open‑source projects.  
+I’m a **Full‑Stack Software Engineer** with a passion for building scalable, secure applications and contributing to impactful open‑source projects.  
 
 My work spans across:  
 - **Backend frameworks** — Architected a scalable API framework adopted by 100+ developers.  
-- Cloud solutions — Built a cloud‑native app serving 10,000+ users with 95% crash‑free sessions.  
-- Cybersecurity — Implemented secure authentication protocols, reducing vulnerability exposure by 30%.  
+- **Cloud solutions** — Built a cloud‑native app serving 10,000+ users with 95% crash‑free sessions.  
+- **Cybersecurity** — Implemented secure authentication protocols, reducing vulnerability exposure by 30%.  
 
 Beyond coding, I enjoy mentoring aspiring developers and sharing knowledge through workshops and technical articles. My goal is to create technology that empowers people and strengthens communities.
-
 
 🛠️ Tech Stack
 
@@ -43,16 +42,7 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 [![Cybersecurity Project](https://img.shields.io/badge/Repo-Cybersecurity_Protocols-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Cybersecurity-Protocols)  
 *Implemented secure authentication protocols, reducing vulnerability exposure by 30%.*
 
-
 📫 Contact Me
-
-Email: abbk1983@egmail.com
-
-LinkedIn: https://www.linkedin.com/in/abdullahi-buba-birma/
-
-Twitter: https://www.twitter.com/birma_buba/
-
-YouTube: https://www.youtube.com/@AbdullahiBubaBirma/
 
 [![Email](https://img.shields.io/badge/Email-abbk1983@egmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbk1983@egmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Buba%20Birma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-buba-birma)
