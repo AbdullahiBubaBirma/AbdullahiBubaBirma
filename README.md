@@ -33,4 +33,4 @@ LinkedIn: https://www.linkedin.com/in/abdullahi-buba-birma/
 
 Twitter: htpps://twitter.com/birma_buba/
 
-YouTube: https://youtube.com/abdullahibuba/
+YouTube: https://www.youtube.com/@AbdullahiBubaBirma/
