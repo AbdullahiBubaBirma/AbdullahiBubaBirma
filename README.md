@@ -1,8 +1,11 @@
 👋 Hi, I’m Abdullahi Buba Birma
 
+
 Full‑Stack Software Engineer | Python · React · AI · Cybersecurity
 
 🚀 About Me
+
+
 Passionate about building scalable, secure applications.
 
 Contributor to open‑source projects with 500+ GitHub stars.
