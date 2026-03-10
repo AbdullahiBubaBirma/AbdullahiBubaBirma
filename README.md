@@ -2,15 +2,17 @@
 
 Full‑Stack Software Engineer | Python · React · AI · Cybersecurity
 
-🚀 About Me
+👨‍💻 About Me
 
-Passionate about building scalable, secure applications.
+I’m a Full‑Stack Software Engineer with a passion for building scalable, secure applications and contributing to impactful open‑source projects.  
 
-Contributor to open‑source projects with 500+ GitHub stars.
+My work spans across:  
+- **Backend frameworks** — Architected a scalable API framework adopted by 100+ developers.  
+- Cloud solutions — Built a cloud‑native app serving 10,000+ users with 95% crash‑free sessions.  
+- Cybersecurity — Implemented secure authentication protocols, reducing vulnerability exposure by 30%.  
 
-Experienced in cloud computing, APIs, and data structures.
+Beyond coding, I enjoy mentoring aspiring developers and sharing knowledge through workshops and technical articles. My goal is to create technology that empowers people and strengthens communities.
 
-Mentor and educator, guiding students in coding and project‑based learning.
 
 🛠️ Tech Stack
 
@@ -31,13 +33,6 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=white)
 
 📂 Featured Projects
-
-Scalable API Framework — Adopted by 100+ developers worldwide.
-
-Cloud‑Native App — Serving 10,000+ users with 95% crash‑free sessions.
-
-Cybersecurity Protocols — Reduced vulnerability exposure by 30%.
-
 
 [![API Framework](https://img.shields.io/badge/Repo-Scalable_API_Framework-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Scalable-API-Framework)  
 *Framework adopted by 100+ developers, reducing deployment time by 30%.*
