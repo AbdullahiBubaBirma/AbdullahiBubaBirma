@@ -27,10 +27,10 @@ Cloud‑Native App — Serving 10,000+ users with 95% crash‑free sessions.
 Cybersecurity Protocols — Reduced vulnerability exposure by 30%.
 
 📫 Contact Me
-Email: abbk1983.email@egmail.com
+Email: abbk1983@egmail.com
 
 LinkedIn: https://www.linkedin.com/in/abdullahi-buba-birma/
 
-Twitter: htpps://twitter.com/birma_buba/
+Twitter: htpps://www.twitter.com/birma_buba/
 
 YouTube: https://www.youtube.com/@AbdullahiBubaBirma/
