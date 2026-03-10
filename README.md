@@ -48,3 +48,16 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Buba%20Birma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-buba-birma)
 [![Twitter](https://img.shields.io/badge/Twitter-@birma_buba-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/birma_buba)
 [![YouTube](https://img.shields.io/badge/YouTube-Abdullahi%20Buba%20Birma-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdullahiBubaBirma)
+
+🤝 Let’s Connect
+
+I’m always open to collaborating on impactful projects, contributing to open‑source, and exploring new opportunities in **Full‑Stack Development, AI, and Cybersecurity**.  
+
+If you’re a recruiter, developer, or collaborator interested in working together, feel free to reach out directly:  
+
+📧 **Email**: abbk1983@egmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/abdullahi-buba-birma](https://www.linkedin.com/in/abdullahi-buba-birma)  
+🐦 **Twitter**: [@birma_buba](https://twitter.com/birma_buba)  
+▶️ **YouTube**: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
+
+---
