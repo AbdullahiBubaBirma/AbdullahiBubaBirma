@@ -61,3 +61,12 @@ If you’re a recruiter, developer, or collaborator interested in working togeth
 ▶️ **YouTube**: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
 
 ---
+
+## 🤝 Contact
+
+📍 Location: Gombe, Nigeria  
+📧 Email: abbk1983@egmail.com  
+🔗 LinkedIn: [linkedin.com/in/abdullahi-buba-birma](https://www.linkedin.com/in/abdullahi-buba-birma)  
+🐦 Twitter (X): [@birma_buba](https://twitter.com/birma_buba)  
+▶️ YouTube: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
+🌐 Portfolio Website: [yourwebsite.com](#) *(add when ready)*
