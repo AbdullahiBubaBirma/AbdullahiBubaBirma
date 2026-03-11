@@ -42,25 +42,12 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 [![Cybersecurity Project](https://img.shields.io/badge/Repo-Cybersecurity_Protocols-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Cybersecurity-Protocols)  
 *Implemented secure authentication protocols, reducing vulnerability exposure by 30%.*
 
-📫 Contact Me
-
-[![Email](https://img.shields.io/badge/Email-abbk1983@egmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbk1983@egmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullahi%20Buba%20Birma-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahi-buba-birma)
-[![Twitter](https://img.shields.io/badge/Twitter-@birma_buba-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/birma_buba)
-[![YouTube](https://img.shields.io/badge/YouTube-Abdullahi%20Buba%20Birma-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AbdullahiBubaBirma)
 
 🤝 Let’s Connect
 
 I’m always open to collaborating on impactful projects, contributing to open‑source, and exploring new opportunities in **Full‑Stack Development, AI, and Cybersecurity**.  
 
 If you’re a recruiter, developer, or collaborator interested in working together, feel free to reach out directly:  
-
-📧 **Email**: abbk1983@egmail.com  
-🔗 **LinkedIn**: [linkedin.com/in/abdullahi-buba-birma](https://www.linkedin.com/in/abdullahi-buba-birma)  
-🐦 **Twitter**: [@birma_buba](https://twitter.com/birma_buba)  
-▶️ **YouTube**: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
-
----
 
 ## 🤝 Contact
 
@@ -69,4 +56,8 @@ If you’re a recruiter, developer, or collaborator interested in working togeth
 🔗 LinkedIn: [linkedin.com/in/abdullahi-buba-birma](https://www.linkedin.com/in/abdullahi-buba-birma)  
 🐦 Twitter (X): [@birma_buba](https://twitter.com/birma_buba)  
 ▶️ YouTube: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
-🌐 Portfolio Website: [yourwebsite.com](#) *(add when ready)*
+🌐 Portfolio Website: [yourwebsite.com](#) *(add when ready)*  
+
+---
+
+
