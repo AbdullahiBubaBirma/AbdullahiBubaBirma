@@ -56,7 +56,8 @@ If you’re a recruiter, developer, or collaborator interested in working togeth
 🔗 LinkedIn: [linkedin.com/in/abdullahi-buba-birma](https://www.linkedin.com/in/abdullahi-buba-birma)  
 🐦 Twitter (X): [@birma_buba](https://twitter.com/birma_buba)  
 ▶️ YouTube: [Abdullahi Buba Birma](https://www.youtube.com/@AbdullahiBubaBirma)  
-🌐 Portfolio Website: [yourwebsite.com](#) *(add when ready)*  
+🌐 Portfolio Website: [abdullahibubabirma.github.io](https://abdullahibubabirma.github.io/)
+
 
 ---
 
