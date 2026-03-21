@@ -39,7 +39,7 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 [![Cloud App](https://img.shields.io/badge/Repo-Cloud_Native_App-2ea44f?style=for-the-badge&logo=github)](https://github.com/AbdullahiBubaBirma/Cloud-Native-App)  
 *Cloud‑native application serving 10,000+ users with 95% crash‑free sessions.*
 
-[![Cybersecurity Project](https://img.shields.io/badge/Repo-Cybersecurity_Protocols-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Cybersecurity-Protocols)  
+[![Cybersecurity Project](https://img.shields.io/badge/Repo-Cybersecurity_Protocols-2ea44f?style=for-the-badge&logo=github)](https://github.com/AbdullahiBubaBirma/Cybersecurity-Protocols)  
 *Implemented secure authentication protocols, reducing vulnerability exposure by 30%.*
 
 
