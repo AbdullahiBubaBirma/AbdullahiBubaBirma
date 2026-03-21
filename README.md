@@ -33,7 +33,7 @@ Specialties: AI integration, Cybersecurity, Full‑Stack Development
 
 📂 Featured Projects
 
-[![API Framework](https://img.shields.io/badge/Repo-Scalable_API_Framework-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Scalable-API-Framework)  
+[![API Framework](https://img.shields.io/badge/Repo-Scalable_API_Framework-2ea44f?style=for-the-badge&logo=github)](https://github.com/AbdullahiBubaBirma/Scalable-API-Framework)  
 *Framework adopted by 100+ developers, reducing deployment time by 30%.*
 
 [![Cloud App](https://img.shields.io/badge/Repo-Cloud_Native_App-2ea44f?style=for-the-badge&logo=github)](https://github.com/Abbk1109/Cloud-Native-App)  
